@@ -68,8 +68,10 @@ The bot should be online.
 ### Bot Commands
 
 + Start Recording : `<PREFIX>enter <VOICE_CHANNEL_NAME>`
-
 + Stop Recording  : `<PREFIX>exit`
++ Start Recording for all : `<PREFIXS>connect`
++ Stop Recording  for more channels : `<PREFIXS>disconnect`
+
 
 ## Managing the Output
 
