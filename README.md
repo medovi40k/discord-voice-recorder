@@ -21,7 +21,7 @@ _Also, multi user recording is currently out of discord.js's scope, currently a 
 
 Clone the repository : 
 ```
-git clone https://github.com/chebro/discord-voice-recorder/
+git clone https://github.com/medovi40k/discord-voice-recorder/
 ```
 
 [Create a discord bot](https://discordpy.readthedocs.io/en/latest/discord.html) if you don't have one already and invite the bot to your server, then:
