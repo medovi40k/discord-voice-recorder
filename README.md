@@ -37,7 +37,7 @@ git clone https://github.com/chebro/discord-voice-recorder/
 }
 ```
 3. In commands.js change let chat to your voice chat id.
- <img src="https://i.imgur.com/OdMP3yy_d.webp" width="500" align="right">
+ <img src="https://i.imgur.com/twFlQvU.png" width="500" align="right">
 
 You can run the script in any of the following two ways:
 
