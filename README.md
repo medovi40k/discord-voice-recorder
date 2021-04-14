@@ -32,7 +32,8 @@ git clone https://github.com/chebro/discord-voice-recorder/
 ```yaml
 {
     "BOT_TOKEN": "<YOUR_BOT_TOKEN>",
-    "PREFIX": "<BOT_PREFIX>"
+    "PREFIX": "<BOT_PREFIX>",
+    "PREFIX": "<BOT_PREFIX_TO_USE_GLOBAL>"
 }
 ```
 
@@ -68,8 +69,9 @@ The bot should be online.
 ### Bot Commands
 
 + Start Recording : `<PREFIX>enter <VOICE_CHANNEL_NAME>`
-
 + Stop Recording  : `<PREFIX>exit`
++ Start Recording for all : `<PREFIXS>connect`
++ Stop Recording  for more channels : `<PREFIXS>disconnect`
 
 ## Managing the Output
 
